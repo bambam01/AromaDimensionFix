@@ -1,0 +1,16 @@
+[
+{
+  "modid": "Aroma1997DimensionFix",
+  "name": "Aroma1997DimensionFix",
+  "description": "This mod moddifies the Aroma1997 Mining dimesion to have a normal day night cycle. This mod requires: Aroma1997 Dimensional world",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["bambam01"],
+  "credits": "Aroma1997 for creating the original Aroma1997Dimension Mod",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
